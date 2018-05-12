@@ -1,0 +1,31 @@
+_repo: La-invasi-n-o-El-loco-Y-gof_31544
+_version: 0.1.0
+alternative_title: L'invasion, ou, Le fou Yégof. Spanish
+contributor:
+  translator:
+    agent_name: Pastor, J. Alvarez
+    gutenberg_agent_id: '35314'
+    url: http://www.gutenberg.org/2009/agents/35314
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Erckmann-Chatrian
+    gutenberg_agent_id: '2680'
+    url: http://www.gutenberg.org/2009/agents/2680
+    wikipedia: http://en.wikipedia.org/wiki/Erckmann-Chatrian
+description: ''
+gutenberg_issued: '2010-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31544'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Invasion of 1814 -- Fiction'
+- !lcc 'PQ'
+title: La invasión o El loco Yégof
+url: http://www.gutenberg.org/ebooks/31544
