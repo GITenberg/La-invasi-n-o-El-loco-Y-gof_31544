@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2680
     wikipedia: http://en.wikipedia.org/wiki/Erckmann-Chatrian
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31544#La-invasi-n-o-El-loco-Y-gof
 gutenberg_issued: '2010-03-07'
 gutenberg_type: Text
 identifiers:
